@@ -1,6 +1,6 @@
 # search_image_app
 
-A new Flutter project.
+My firts flutter project the same thematic like my first react app 
 
 ## Getting Started
 
